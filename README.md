@@ -1,5 +1,7 @@
 # Data Scientist 
 
+### Technical Skills: Python, SQL, Databricks, Tableau, PBI, AWS, Azure
+
 ### Education
 1. Data Science at University of Milan Bicocca
 2. Economics for Banks, Insurance and Financial Institutions at University of Milan Bicocca
