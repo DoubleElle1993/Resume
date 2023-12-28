@@ -1,17 +1,17 @@
 # Data Scientist 
 
 ### Education
--Data Science 
--Economics for Banks, Insurance and Financial Institutions
+1. Data Science 
+2. Economics for Banks, Insurance and Financial Institutions
 
 ### Work Experience
--Deloitte (2021-Ongoing)
--Alten (Apr 2021 - Nov 2021)
--Amat (Jul 2020 -  Dec 2020)
+1. Deloitte (2021-Ongoing)
+2. Alten (Apr 2021 - Nov 2021)
+3. Amat (Jul 2020 -  Dec 2020)
 
 ### Projects
--Machine Learning Regression Analysis 
--Computer Vision 
--Computer Vision
--Time Series Forecasting
--Data Analytics 
+* Machine Learning Regression Analysis 
+* Computer Vision 
+* Computer Vision
+* Time Series Forecasting
+* Data Analytics 
